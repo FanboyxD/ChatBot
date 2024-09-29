@@ -1,0 +1,20 @@
+# Dependencias de Node.js
+/node_modules/
+
+# Archivos de paquetes
+*.log
+yarn.lock
+package-lock.json
+
+# Archivos de entorno
+.env
+
+# Directorios del sistema operativo
+.DS_Store
+.expo
+/android/
+/ios/
+
+# Directorios de configuración de metro
+/expo/
+/dist/
